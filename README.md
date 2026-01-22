@@ -14,14 +14,9 @@ https://kcalc.pages.dev/
 
 KCalc is designed to be a **general-purpose calculator platform**.
 
-The project currently focuses on **construction and material estimation calculators**, with plans to expand into:
+The project currently focuses on **construction and material estimation calculators**, with plans to expand into **finance, business, math, and utility calculators**.
 
-- 💰 Finance calculators  
-- 📊 Business calculators  
-- 📐 Math & geometry calculators  
-- ⏱️ Everyday utility calculators  
-
-The website is fully static, mobile-friendly, and SEO-optimized.
+The website is fully static, mobile-friendly, and optimized for speed, usability, and SEO.
 
 ---
 
@@ -86,20 +81,20 @@ https://kcalc.pages.dev/calculators/
 
 ## 🧠 Planned Calculator Categories
 
-KCalc is built to scale. Upcoming categories include:
+KCalc is built to scale. Planned additions include:
 
-### 💰 Finance Calculators (Planned)
+### 💰 Finance Calculators
 - Loan Calculator
 - Interest Calculator
 - Savings Calculator
 - Mortgage Calculator
 
-### 📊 Business Calculators (Planned)
+### 📊 Business Calculators
 - Profit Margin Calculator
 - Break-even Calculator
 - ROI Calculator
 
-### 📐 Math & Geometry Calculators (Planned)
+### 📐 Math & Geometry Calculators
 - Area & Volume Calculators
 - Percentage Calculator
 - Unit Conversion Tools
@@ -125,6 +120,12 @@ KCalc is suitable for both **professional** and **everyday** use.
 - CSS3  
 - JavaScript (Vanilla)  
 - Cloudflare Pages (Hosting)
+
+---
+
+## 📢 Advertising Disclosure
+
+KCalc may display **non-intrusive advertisements** to support ongoing development and keep the calculators free to use.
 
 ---
 
